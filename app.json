@@ -1,6 +1,6 @@
 {
-  "name": "levanter@5.2.3",
-  "description": "",
+  "name": "Spidey's sidekick",
+  "description": "Spiderman's sidekick when he's fighting crime",
   "keywords": ["noedjs"],
   "success_url": "/",
   "env": {
